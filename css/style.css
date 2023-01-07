@@ -69,8 +69,7 @@
     position: absolute;
     content: "";
     background: #fff;
-     background: linear-gradient(#c4daf7, #c8bafa, #fccdff);
-    /*background: linear-gradient(375deg, #1cc7d0, #2ede98);*/
+    background: linear-gradient(#c4daf7, #c8bafa, #fccdff);
     width: 104%;
     height: 110%;
     left: -2%;
