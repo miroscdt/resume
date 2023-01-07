@@ -13,3 +13,5 @@ You can follow me on my [LinkedIn](https://www.linkedin.com/in/miroslava-cdt/ "L
 #### Here are two randome facts about me:
 - I am an architect who decided to become a programmer.
 - I love pizza and playing scape rooms online.
+
+(working in progress)
